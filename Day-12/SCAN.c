@@ -1,5 +1,4 @@
 // SCAN Scheduling algorithm
-// Created: 07.11.2024
 
 #include <stdio.h>
 #include <stdlib.h>
